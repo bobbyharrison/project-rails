@@ -5,6 +5,3 @@ class StaticPagesController < ApplicationController
   def help
   end
 end
-
-  def contact
-end
